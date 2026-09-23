@@ -1,0 +1,7 @@
+{
+    "created_at": "2026-09-23T23:20:37",
+    "description": "PGP 3.11.2: remove nested unitto compose module that broke CI; overlay permission + editor fixes retained.",
+    "download_url": "https://github.com/a231s564d897w/pgp-keyboard-extensions/releases/download/v3.11.2/patches-3.11.2.mpp",
+    "signature_download_url": "",
+    "version": "3.11.2"
+}
