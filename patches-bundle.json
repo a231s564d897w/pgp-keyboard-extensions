@@ -1,0 +1,7 @@
+{
+    "created_at": "2026-09-25T15:33:56",
+    "description": "PGP 3.11.3: fix preset Access Point safeContext compile error.",
+    "download_url": "https://github.com/a231s564d897w/pgp-keyboard-extensions/releases/download/v3.11.3/patches-3.11.3.mpp",
+    "signature_download_url": "",
+    "version": "3.11.3"
+}
