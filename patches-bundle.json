@@ -1,0 +1,7 @@
+{
+    "created_at": "2026-09-25T16:48:20",
+    "description": "PGP 3.13.4: fix PROTON_PASS_PACKAGES syntax; pre-publish java sanity script.",
+    "download_url": "https://github.com/a231s564d897w/pgp-keyboard-extensions/releases/download/v3.13.4/patches-3.13.4.mpp",
+    "signature_download_url": "",
+    "version": "3.13.4"
+}
