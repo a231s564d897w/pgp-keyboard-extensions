@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Calculator module manifest.
+
+  The real permission is injected into Gboard's AndroidManifest by
+  GboardOverlayManifestPatch. This file documents the requirement for the
+  scientific calculator floating window.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Required to inflate a floating scientific-calculator window above the keyboard / other apps -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
+</manifest>
