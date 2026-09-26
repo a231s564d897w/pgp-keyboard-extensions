@@ -1,0 +1,7 @@
+{
+    "created_at": "2026-09-25T16:53:23",
+    "description": "PGP 3.13.5: fix OverlayWindowHelper import, slot editor show(onDismiss), remove Unitto Feature.",
+    "download_url": "https://github.com/a231s564d897w/pgp-keyboard-extensions/releases/download/v3.13.5/patches-3.13.5.mpp",
+    "signature_download_url": "",
+    "version": "3.13.5"
+}
